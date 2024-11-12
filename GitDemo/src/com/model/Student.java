@@ -7,6 +7,8 @@ public class Student {
 		System.out.println("hi");
 
 		System.out.println("Welome");
+		
+		System.out.println("Welome here");
 	}
 
 }
